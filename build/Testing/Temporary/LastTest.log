@@ -1,0 +1,20 @@
+Start testing: May 01 15:44 CEST
+----------------------------------------------------------
+1/1 Testing: CommonPthreadError
+1/1 Test: CommonPthreadError
+Command: "/usr/bin/perl" "/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/test/pthcocci.pl"
+Directory: /home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build
+"CommonPthreadError" start time: May 01 15:44 CEST
+Output:
+----------------------------------------------------------
+sh: 1: spatch: not found
+Can't exec "spatch": No such file or directory at /home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/test/pthcocci.pl line 17.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CommonPthreadError" end time: May 01 15:44 CEST
+"CommonPthreadError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 01 15:44 CEST

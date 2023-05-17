@@ -1,0 +1,7 @@
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/ensivideo.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/check.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/package.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/package_source.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/test.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/edit_cache.dir
+/home/stan/imag/2A_sem2/sepc/tp_video/ensimag-video/C/build/CMakeFiles/rebuild_cache.dir

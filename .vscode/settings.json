@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "stream_common.h": "c"
+    }
+}
